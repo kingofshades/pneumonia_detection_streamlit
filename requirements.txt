@@ -3,3 +3,4 @@ streamlit
 Pillow
 keras
 tensorflow
+streamlit_extras
